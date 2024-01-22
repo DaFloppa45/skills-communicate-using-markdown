@@ -10,3 +10,7 @@ public static void main(String[] args){
   System.out.println("Hello, World!");
 }
 ```
+# Step 4: Adding a task list
+- [ ] Finish this course
+- [ ] Start another course
+- [ ] Learn how to use Git terminal
